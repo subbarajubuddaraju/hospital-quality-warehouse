@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-11-09T21:28:08+00:00",
+ "fetched_at": "2026-11-16T21:04:57+00:00",
  "datasets": {
   "hospital_general": {
    "dataset_id": "xubh-q36u",
    "title": "Hospital General Information",
-   "modified": "2026-07-22",
-   "url": "https://data.cms.gov/provider-data/sites/default/files/resources/893c372430d9d71a1c52737d01239d47_1785189955/Hospital_General_Information.csv",
-   "rows": 5419,
+   "modified": "2026-10-26",
+   "url": "https://data.cms.gov/provider-data/sites/default/files/resources/d3bf87c5505155f549d603688414f3c6_1793059553/Hospital_General_Information_2.csv",
+   "rows": 5435,
    "columns": [
     "facility_id",
     "facility_name",
@@ -48,14 +48,14 @@
     "te_group_footnote",
     "_cms_modified"
    ],
-   "sha256": "f874f09fef895a1ccf5bb7392dcbb2be05c9860339261b093fe00f0c1b013480"
+   "sha256": "ff2a82a7149975fb86348e7f901aa3bcd9f3701e8b0ecd0ab34702df193ff559"
   },
   "unplanned_visits": {
    "dataset_id": "632h-zaca",
    "title": "Unplanned Hospital Visits - Hospital",
-   "modified": "2026-09-10",
-   "url": "https://data.cms.gov/provider-data/sites/default/files/resources/30edc1d0417a34b58affcc2495a02b0a_1790013959/Unplanned_Hospital_Visits-Hospital.csv",
-   "rows": 67060,
+   "modified": "2026-10-20",
+   "url": "https://data.cms.gov/provider-data/sites/default/files/resources/30edc1d0417a34b58affcc2495a02b0a_1792599927/Unplanned_Hospital_Visits-Hospital.csv",
+   "rows": 67018,
    "columns": [
     "facility_id",
     "facility_name",
@@ -79,14 +79,14 @@
     "end_date",
     "_cms_modified"
    ],
-   "sha256": "98cc64f5fc330ffa7e4bef97f8e86a772a1d3dfe2f7dd08976cb1ee43fad1b2d"
+   "sha256": "c89470bb1fa175dbe4765c4f61609cc02d14bf321006eb2408886a8173b029d7"
   },
   "complications_deaths": {
    "dataset_id": "ynj2-r877",
    "title": "Complications and Deaths - Hospital",
-   "modified": "2026-09-10",
-   "url": "https://data.cms.gov/provider-data/sites/default/files/resources/6af7c44d77436e5a1caac3ce39a83fe9_1790013956/Complications_and_Deaths-Hospital.csv",
-   "rows": 95800,
+   "modified": "2026-10-20",
+   "url": "https://data.cms.gov/provider-data/sites/default/files/resources/6af7c44d77436e5a1caac3ce39a83fe9_1792599556/Complications_and_Deaths-Hospital.csv",
+   "rows": 95740,
    "columns": [
     "facility_id",
     "facility_name",
@@ -108,14 +108,14 @@
     "end_date",
     "_cms_modified"
    ],
-   "sha256": "2f7112969e2de2a015af8574848973dc48595ca6f2fe032e5f0932c515d5f59a"
+   "sha256": "3cacd2a3b81226b70c72274259a907526588ba558eec5e14fb411553babc735a"
   },
   "timely_care": {
    "dataset_id": "yv7e-xc69",
    "title": "Timely and Effective Care - Hospital",
-   "modified": "2026-07-22",
-   "url": "https://data.cms.gov/provider-data/sites/default/files/resources/0437b5494ac61507ad90f2af6b8085a7_1785189967/Timely_and_Effective_Care-Hospital.csv",
-   "rows": 138084,
+   "modified": "2026-10-19",
+   "url": "https://data.cms.gov/provider-data/sites/default/files/resources/0437b5494ac61507ad90f2af6b8085a7_1792599910/Timely_and_Effective_Care-Hospital.csv",
+   "rows": 161313,
    "columns": [
     "facility_id",
     "facility_name",
@@ -135,14 +135,14 @@
     "end_date",
     "_cms_modified"
    ],
-   "sha256": "1e5a1ca803c2b09468fe3ae3fe60fef3e910f5f5300630a24791c88a1abff516"
+   "sha256": "473241c09b40010baa4b734d0b8bed540d2c275491368da5d08be4f19a019b92"
   },
   "patient_survey": {
    "dataset_id": "dgck-syfz",
    "title": "Patient survey (HCAHPS) - Hospital",
-   "modified": "2026-07-22",
-   "url": "https://data.cms.gov/provider-data/sites/default/files/resources/78a50346fbe828ea0ce2837847af6a7c_1785189950/HCAHPS-Hospital.csv",
-   "rows": 325720,
+   "modified": "2026-10-19",
+   "url": "https://data.cms.gov/provider-data/sites/default/files/resources/78a50346fbe828ea0ce2837847af6a7c_1792599592/HCAHPS-Hospital.csv",
+   "rows": 512209,
    "columns": [
     "facility_id",
     "facility_name",
@@ -168,14 +168,14 @@
     "end_date",
     "_cms_modified"
    ],
-   "sha256": "b70e598f29552df302e30ed649d178abd1b3d3c868ae97cf8e55453dd33898fc"
+   "sha256": "c7cc9241c9726f15a00e9e6c44b7fd72ceb16f173a515776faa0fcb50dd71069"
   },
   "infections": {
    "dataset_id": "77hc-ibv8",
    "title": "Healthcare Associated Infections - Hospital",
-   "modified": "2026-07-22",
-   "url": "https://data.cms.gov/provider-data/sites/default/files/resources/43825e12dc0c923df9ba5cbdf473c9d5_1785189952/Healthcare_Associated_Infections-Hospital.csv",
-   "rows": 172440,
+   "modified": "2026-10-19",
+   "url": "https://data.cms.gov/provider-data/sites/default/files/resources/43825e12dc0c923df9ba5cbdf473c9d5_1792599610/Healthcare_Associated_Infections-Hospital.csv",
+   "rows": 172332,
    "columns": [
     "facility_id",
     "facility_name",
@@ -194,7 +194,7 @@
     "end_date",
     "_cms_modified"
    ],
-   "sha256": "95283bf20e66c5f9271e6b0b98969d8655487b4d5fa074dcee6e204ee4574f3d"
+   "sha256": "586b831541f567106c438c7f72cb312786282a55fe8a98559e8d990fa8144001"
   }
  },
  "zip_centroids": {
